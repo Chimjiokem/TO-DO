@@ -8,7 +8,7 @@ Update Todo Items: Edit existing todo items to update their title, description, 
 Delete Todo Items: Remove existing todo items from the list.
 
 Installation
-Clone the repository: git clone https://github.com/chimjiokem/to do.git
+Clone the repository: git clone https://github.com/chimjiokem/to-do.git
 Install dependencies: pip install -r requirements.txt
 Run migrations: python manage.py migrate
 Start the development server: python manage.py runserver
